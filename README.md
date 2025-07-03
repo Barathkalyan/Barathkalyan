@@ -27,7 +27,7 @@
 
 ## 🌐 Connect with Me
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/t-barathkalyan-b4253328b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -38,7 +38,7 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
@@ -48,33 +48,33 @@
 </p>
 
 ### 🌐 Frontend
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
 </p>
 
 ### ⚙️ Backend
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
 </p>
 
 ### 🎨 UI Libraries / Styling
-<p align="center">
+<p>
   <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
   <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
 </p>
 
 ### 🔐 Authentication & Security
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
   <img src="https://img.shields.io/badge/OAuth2-ff4b4b?style=for-the-badge&logo=oauth&logoColor=white"/>
 </p>
 
 ### 🗄️ Databases
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -82,7 +82,7 @@
 </p>
 
 ### 📊 Data Science / Notebooks
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black"/>
@@ -92,7 +92,7 @@
 </p>
 
 ### 🤖 Machine Learning / AI / NLP
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prophet-%231DA1F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-%23FFBF00.svg?style=for-the-badge&logo=huggingface&logoColor=black"/>
@@ -100,12 +100,12 @@
 </p>
 
 ### 🚀 Deployment Platforms
-<p align="center">
+<p>
   <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ### 🧰 Tools & DevOps
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -126,14 +126,22 @@
   </a>
 </p>
 
+### 💡 Overall GitHub Summary
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Barathkalyan&show_icons=true&theme=radical&count_private=true&hide_border=false" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Barathkalyan&theme=radical&hide_border=false" />
 </p>
 
+### 📊 Most Used Languages
 <p align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barathkalyan&layout=compact&theme=radical&hide_border=false"/>
 </p>
+
+### 🧠 LeetCode Progress
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Barathkalyan?theme=dark&font=Karma" />
+</p>
+
 
 
 ---
