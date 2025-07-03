@@ -120,10 +120,20 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Barathkalyan&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Barathkalyan&theme=radical&hide_border=false"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barathkalyan&theme=radical&layout=compact&hide_border=false"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Barathkalyan&theme=radical&row=1&margin-w=15&margin-h=15" />
+  </a>
 </p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Barathkalyan&show_icons=true&theme=radical&count_private=true&hide_border=false" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Barathkalyan&theme=radical&hide_border=false" />
+</p>
+
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barathkalyan&layout=compact&theme=radical&hide_border=false"/>
+</p>
+
 
 ---
 
