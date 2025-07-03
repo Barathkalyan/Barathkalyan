@@ -1,5 +1,24 @@
-# 💫 About Me:
-- 🌟 Hi! I'm T Barathkalyan<br>- 🌐 Web Developer: Building responsive and user-friendly websites.<br>- 🐍 Python Programmer: Developing efficient and creative solutions.<br>- 💡 Passionate About: Coding and bringing projects to life.<br>- 📈 Always Learning: Eager to learn new technologies and improve my skills.<br>- 🤝 Open to Collaborations: Excited to connect and work on amazing projects!<br>
+# 👋 Hi, I'm T. Barathkalyan
+
+I'm a developer who enjoys solving real-world problems through clean code and thoughtful design. I build full-stack applications, explore AI integrations, and continuously sharpen my skills across domains.
+
+## 💼 What I Do
+
+- 🧱 **Full-Stack Development** – From frontend UI to backend APIs, I work across the stack using React, Flask, and Supabase.
+- 🐍 **Python & Automation** – Web scraping, task automation, and integration with AI/ML models.
+- 🧠 **AI-Driven Projects** – Integrating LLMs and ML models like Facebook Prophet to deliver intelligent features.
+- 🗃️ **Database Architecture** – Designing robust schemas with PostgreSQL, MySQL, and Supabase.
+- 🛠️ **Clean Code & Collaboration** – I value readable code, smart versioning, and teamwork.
+
+## 📌 Currently Exploring
+
+- 🧪 Experimenting with LLM workflows and AI-based UI interactions  
+- ⚙️ Improving backend design patterns in Flask/Supabase projects  
+- 🤝 Open to collaborations, internships, and open-source contributions
+
+---
+
+📫 **Let’s connect** if you’re working on something meaningful.
 
 
 ## 🌐 Socials:
