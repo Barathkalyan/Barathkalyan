@@ -51,11 +51,13 @@ I'm a developer who enjoys solving real-world problems through clean code and th
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 📊 Data Science / Visualization
+### 📊 Data Science / Visualization / Notebooks
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-46B0AC?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![JupyterLab](https://img.shields.io/badge/JupyterLab-1E90FF.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
 ### 🤖 Machine Learning / AI / NLP
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
