@@ -94,6 +94,15 @@
   <img src="https://img.shields.io/badge/JupyterLab-1E90FF.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/>
 </p>
 
+### 🕷️ Web Scraping & Automation
+<p>
+  <a href="https://www.selenium.dev/"><img src="https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white"/></a>
+  <a href="https://pypi.org/project/beautifulsoup4/"><img src="https://img.shields.io/badge/BeautifulSoup-%23327A7C.svg?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="https://scrapy.org/"><img src="https://img.shields.io/badge/Scrapy-black?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="https://undetected-chromedriver.readthedocs.io/"><img src="https://img.shields.io/badge/undetected_chromedriver-grey?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+</p>
+
+
 ### 🤖 Machine Learning / AI / NLP
 <p>
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
