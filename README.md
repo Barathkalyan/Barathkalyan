@@ -2,7 +2,7 @@
 
 <p align="center">
   I'm a developer passionate about building clean, efficient, and user-friendly software.
-  I work across the full stack, explore AI/ML integrations, and constantly push to learn and innovate.
+  I work across the full stack, explore AI/ML integrations, and constantly push to learn and innovate!!!
 </p>
 
 ---
