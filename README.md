@@ -20,7 +20,7 @@
 ## 🌱 Currently Exploring
 
 - 🧪 LLM-powered workflows + emotion-aware interfaces  
-- ⚙️ Backend pattern improvements in Flask/Supabase projects  
+- ⚙️ Backend pattern improvements in Flask/Supabase projects.  
 - 🤝 Collaborating on meaningful open-source and internship-level projects
 
 ---
